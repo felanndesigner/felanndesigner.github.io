@@ -1,0 +1,442 @@
+{
+  "settings": {
+    "currentPage": "felann",
+    "name": "Felann Digital",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Raleway",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.4",
+    "uniqCompNum": 13,
+    "versionPublish": "3.10.4",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "felann": {
+      "settings": {
+        "main": true,
+        "title": "felanndigital",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FELANN DESIGNER",
+          "text": "Nós nos tornamos aquilo que pensamos.",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.instagram.com/felipemaia15/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> "
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "megaphone",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "BRANDING",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Criação de logotipos, identidade visual e comunicação institucional, tendo como base estudos de mercados e análises de tendências atuais, afim de garantir um posicionamento de marca assertivo, com valor agregado e eficaz, possibilitando a melhor conexão entre as marcas e o seu público-alvo. ",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box6-2\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Saiba mais</a>  ",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "hotairballoon",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "DESIGNER FRÁFICO",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Criar e impressionar é o que nos move. Criamos anúncios, campanhas, layouts institucionais, embalagens de produtos, eventos, personalização de loja e tudo que envolve a sua marca. Nossos projetos reúnem arte, conhecimento técnico e compromisso em refletir nosso estilo sem deixar de preservar o DNA de nossos clientes. ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "printer",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title3": "IMPRESSOS",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Os materiais institucionais e de divulgação da sua empresa (cartões de visitas, panfletos, banners, folders, encartes, pastas, envelopes, revistas e outros) são a materialização da sua marca junto ao cliente e para que cheguem de forma eficaz até ele, precisam ser produzidos com qualidade de criação, impressão e acabamento, e disso a gente entende! ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": ""
+            }
+          },
+          "title4": "SOCIAL MEDIA<br>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Desenvolvemos pôsts para que seu negócio tenha uma presença efetiva na web e nas principais mídias sociais, interagindo com seu cliente, gerando conteúdo e estreitando distâncias entre ele e o seu negócio! Chegou a hora de conectar sua marca de forma criativa, inovadora e gerar grandes oportunidades na internet. .",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": true,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PLANOS DE SOCIAL MEDIA",
+          "subtitle": "Escolha um de nossos planos que mais se encaixe&nbsp;",
+          "label1": "HOT!",
+          "title1": "STANDARD",
+          "subtitle1": "",
+          "currency1": "$",
+          "price1": "100",
+          "period1": "/mês.",
+          "description1": "",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1 pôst</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">semanal</span></li><li class=\"list-group-item\">8 mensal</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ASSINAR</a>",
+          "label2": "HOT!",
+          "title2": "BUSINESS",
+          "subtitle2": "",
+          "currency2": "$",
+          "price2": "150",
+          "period2": "/mês.",
+          "description2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 pôsts</li><li class=\"list-group-item\">semanal</li><li class=\"list-group-item\">8 mensal</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ASSINAR</a>",
+          "label3": "HOT!",
+          "title3": "PREMIUM",
+          "subtitle3": "",
+          "currency3": "$",
+          "price3": "300",
+          "period3": "/mês.",
+          "description3": "",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 pôsts</li><li class=\"list-group-item\">semanal</li><li class=\"list-group-item\">12 mensal</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ASSINAR</a>",
+          "label4": "HOT!",
+          "title4": "ULTIMATE",
+          "subtitle4": "",
+          "currency4": "$",
+          "price4": "450",
+          "period4": "/mês.",
+          "description4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">4 pôsts</li><li class=\"list-group-item\">semanal</li><li class=\"list-group-item\">16 mensal</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.facebook.com/felanndesigner/\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">ASSINAR<br></a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-85-800x581-42.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-85.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Panfletos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vcar-04-2000x1333-59-800x533-43.png",
+                "image": "@PROJECT_PATH@/assets/images/vcar-04-2000x1333-59.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-mock-up-2000x1164-71-800x465-23.png",
+                "image": "@PROJECT_PATH@/assets/images/business-card-mock-up-2000x1164-71.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-2000x1558-74-800x623-24.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-2000x1558-74.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-95-800x581-9.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-95.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-33-800x581-17.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-33.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/business-card-mock-up-2000x1164-24-800x465-8.png",
+                "image": "@PROJECT_PATH@/assets/images/business-card-mock-up-2000x1164-24.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/embossed-business-card-mockup-2-2000x1333-24-800x533-95.png",
+                "image": "@PROJECT_PATH@/assets/images/embossed-business-card-mockup-2-2000x1333-24.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-64-800x581-8.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-2000x1454-64.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cartão de visita",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/apresentao-carto-igui-2000x1164-75-800x465-36.png",
+                "image": "@PROJECT_PATH@/assets/images/apresentao-carto-igui-2000x1164-75.png",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-c",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    }
+  }
+}
